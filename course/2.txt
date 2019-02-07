@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 tyt bukla problema normas
 
 no cod
+=======
+okey function pochaly picati
+>>>>>>> newficha
