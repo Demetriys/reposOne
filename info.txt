@@ -4,3 +4,4 @@ git remote show origin
 git branch
 git branch newficha
 git merge
+git branch -d(D) newficha
